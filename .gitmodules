@@ -1,9 +1,12 @@
 [submodule "modules/erc20"]
 	path = modules/erc20
 	url = https://github.com/maple-labs/erc20
+    tag = erc20proxied
 [submodule "modules/erc20-helper"]
 	path = modules/erc20-helper
 	url = https://github.com/maple-labs/erc20-helper
+	tag = v1.0.1
 [submodule "modules/contract-test-utils"]
 	path = modules/contract-test-utils
 	url = https://github.com/maple-labs/contract-test-utils
+	tag = v1.0.1
